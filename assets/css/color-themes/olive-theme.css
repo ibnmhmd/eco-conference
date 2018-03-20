@@ -1,0 +1,118 @@
+/*Theme Color File*/
+
+a,
+.theme_color,
+.btn-style-one:hover,
+.social-icon-two li a:hover,
+.event-block .inner-box .lower-content .read-more,
+.event-block .inner-box .lower-content h3 a:hover,
+.header-upper .main-menu .navigation > li:hover > a,
+.header-upper .main-menu .navigation > li.current > a,
+.header-upper .main-menu .navigation > li.current-menu-item > a,
+.news-block .inner-box .content-column .inner-content h3 a:hover,
+.news-block-two .inner-box .content-column .inner-content h3 a:hover,
+.footer-style-two .links-widget .list li a:hover,
+.page-title .bread-crumb li,
+.page-title .bread-crumb li a:hover, .page-title .bread-crumb li a.current,
+.footer-style-two .links-widget .list li a:hover::before,
+.hotel-block .inner-box .lower-box h3 a:hover,
+.hotel-block .inner-box .lower-box .price span,
+.news-block-four .inner-box .lower-box h3 a:hover,
+.comment-form button,
+.news-block-two .inner-box .lower-content h3 a:hover,
+.news-block .inner-box .content-column .content h3 a:hover,
+.sidebar-page-container .comments-area .comment .comment-reply .icon,
+.sidebar-page-container .comments-area .comment .comment-reply:hover,
+.sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
+.project-section .filters li:hover, .project-section .filters li.active,
+.footer-style-two .widgets-section .logo-widget .widget-content .read-more{
+	color:#3D9970;
+}
+
+/*Background Color*/
+.btn-style-one,
+.sec-title:after,
+.main-header .nav-outer .dropdown-outer .search-box-btn,
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.subscribe-section .subscribe-form .form-group input[type="submit"],
+.subscribe-section .subscribe-form button,
+.social-icon-one li a:hover,
+.speaker-section .owl-dots .owl-dot.active span,
+.speaker-section .owl-dots .owl-dot:hover span,
+.sticky-header .main-menu .navigation > li:hover > a,
+.sticky-header .main-menu .navigation > li.current > a,
+.sticky-header .main-menu .navigation > li.current-menu-item > a,
+.tab-section .prod-tabs .tab-btns .tab-btn.active-btn,
+.tab-section .prod-tabs .tab-btns .tab-btn:hover,
+.travel-block .inner-box:before,
+.scroll-to-top:hover,
+.sidebar-title h2:after,
+.map-section .map-outer .map-info,
+.sidebar .popular-tags a:hover,
+.social-icon-three li a:hover,
+.sidebar-page-container .group-title h2:after,
+.contact-info-section .footer-info .inner:hover .icon,
+.styled-pagination li a:hover, .styled-pagination li a.active{
+	background-color:#3D9970;
+}
+
+
+/*Border Color*/
+
+.btn-style-one,
+.btn-style-one:hover,
+.main-header .nav-outer .dropdown-outer .dropdown-menu,
+.main-header .search-panel input:focus,
+.main-header .search-panel select:focus,
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li > ul,
+.subscribe-form .form-group input[type="text"]:focus,
+.subscribe-form .form-group input[type="email"]:focus,
+.speaker-section .owl-dots .owl-dot:hover::before,
+.speaker-section .owl-dots .owl-dot.active:before,
+.sidebar .search-box .form-group input:focus,
+.social-icon-three li a:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group textarea:focus,
+.header-style-two .header-lower .search-form .form-group input[type="search"]:focus,
+.contact-form .form-group input[type="text"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group input[type="tel"]:focus,
+.contact-form .form-group input[type="email"]:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus{
+	border-color:#3D9970;
+}
+
+/*RGBA Color Light*/
+
+/*RGBA Color Dark*/
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#3D9970;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#3D9970;
+	}
+	
+}
