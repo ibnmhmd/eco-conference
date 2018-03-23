@@ -231,7 +231,7 @@
 	}
 
 	/*********** read more  *******/
-	$('.content').on('click', function () {
+	$('.content_block').on('click', function () {
 		_readMoreBlock(this);
 	});
 
