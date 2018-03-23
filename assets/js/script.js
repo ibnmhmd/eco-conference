@@ -230,6 +230,28 @@
 		wow.init();
 	}
 
+	/*********** read more  *******/
+	$('.content').on('click', function () {
+		_readMoreBlock(this);
+	});
+
+	$('.more').on('click', function () {
+		_handleClick(this);
+	})
+
+	function _readMoreBlock(_instance) {
+		var content = $(_instance).data('content'), header = $(_instance).data('header');
+		$('.modal-title').text('');
+		$('.modal-body').find('p').text('');
+		$('.modal-title').text(header);
+		$('.modal-body').find('p').text(content);
+		$('#myModal').modal('show')
+	}
+
+	function _handleClick(event) {
+		var id = $(event).data('id');
+		$('#myModal').modal('show')
+	}
 /* ==========================================================================
    When document is Scrollig, do
    ========================================================================== */

@@ -1141,7 +1141,7 @@ img{
 
 .events-section{
 	position:relative;
-	padding:145px 0px 110px;
+	padding: 45px 0px 110px;
 }
 
 .event-block{
@@ -1239,7 +1239,7 @@ img{
 .subscribe-section{
 	position:relative;
 	text-align:center;
-	padding:110px 0px 110px;
+	padding: 20px 0px 20px;
 	background:#463f8c url(../images/background/pattern-1.png) left top no-repeat;
 }
 
@@ -1337,7 +1337,7 @@ img{
 
 .speaker-section{
 	position:relative;
-	padding:145px 0px 150px;
+	padding: 45px 0px 45px;
 }
 
 .speaker-section.speaker-page{
@@ -1503,7 +1503,7 @@ img{
 
 .price-section{
 	position:relative;
-	padding:150px 0px 130px;
+	padding:100px 0px 100px;
 }
 
 .price-section.style-two{
@@ -1655,7 +1655,7 @@ img{
 
 .schedule-section{
 	position:relative;
-	padding:150px 0px 150px;
+	padding: 50px 0px 150px;
 }
 
 /*** 
@@ -2223,7 +2223,7 @@ img{
 
 .main-footer .footer-upper{
 	position:relative;
-	padding:40px 0px 60px;
+	padding:40px 0px 15px;
 	background-color:#1b1b1b;
 }
 
@@ -2326,7 +2326,7 @@ img{
 .main-footer .footer-lower{
 	position:relative;
 	text-align:center;
-	padding:40px 0px 80px;
+	padding:15px 0px 20px;
 }
 
 .main-footer .footer-lower .logo-box{
