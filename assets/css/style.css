@@ -1150,7 +1150,11 @@ img{
 
 .events-section{
 	position:relative;
+<<<<<<< HEAD
 	padding: 30px 0px 30px;
+=======
+	padding: 45px 0px 110px;
+>>>>>>> 76577b7024806651e490104edabf913fc2cae806
 }
 
 .event-block{
@@ -1249,7 +1253,11 @@ img{
 	position:relative;
 	text-align:center;
 	padding: 20px 0px 20px;
+<<<<<<< HEAD
 	background:lightgreen;
+=======
+	background:#463f8c url(../images/background/pattern-1.png) left top no-repeat;
+>>>>>>> 76577b7024806651e490104edabf913fc2cae806
 }
 
 .subscribe-section.style-two{
@@ -1665,7 +1673,11 @@ img{
 
 .schedule-section{
 	position:relative;
+<<<<<<< HEAD
 	padding: 40px 0px 40px;
+=======
+	padding: 50px 0px 150px;
+>>>>>>> 76577b7024806651e490104edabf913fc2cae806
 }
 
 /*** 

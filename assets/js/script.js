@@ -510,7 +510,11 @@
 	}
 
 	/*********** read more  *******/
+<<<<<<< HEAD
 	$('.content_block').on('click', function () {
+=======
+	$('.content').on('click', function () {
+>>>>>>> 76577b7024806651e490104edabf913fc2cae806
 		_readMoreBlock(this);
 	});
 
@@ -527,6 +531,7 @@
 		$('#myModal').modal('show')
 	}
 
+<<<<<<< HEAD
 	/*********** close modal ****/
 	$('.closeModal').on('click', function(){
 		closeModal();
@@ -569,6 +574,8 @@
   $('.dropdown-content-for-user').css('display', 'none');
 })
 
+=======
+>>>>>>> 76577b7024806651e490104edabf913fc2cae806
 	function _handleClick(event) {
 		var id = $(event).data('id');
 		$('#myModal').modal('show')
