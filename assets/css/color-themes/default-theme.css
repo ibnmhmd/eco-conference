@@ -54,7 +54,7 @@ a,
 .sidebar-page-container .group-title h2:after,
 .contact-info-section .footer-info .inner:hover .icon,
 .styled-pagination li a:hover, .styled-pagination li a.active{
-	background-color:#e85889;
+	background-color:green;
 }
 
 
@@ -83,7 +83,7 @@ a,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group select:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#e85889;
+	border-color:green;
 }
 
 /*RGBA Color Light*/
@@ -93,7 +93,7 @@ a,
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#e85889;
+		border-color:green;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -112,7 +112,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background-color:#e85889;
+		background-color:green;
 	}
 	
 }
